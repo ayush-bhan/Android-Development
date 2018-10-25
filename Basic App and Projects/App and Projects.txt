@@ -1,0 +1,1 @@
+This folder contains various basic apps to start an Android Developer Life
